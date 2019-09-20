@@ -1,0 +1,11 @@
+C:\Users\fic\Downloads\operadores relacionais\lista\obj\Debug\netcoreapp2.2\lista.csprojAssemblyReference.cache
+C:\Users\fic\Downloads\operadores relacionais\lista\obj\Debug\netcoreapp2.2\lista.csproj.CoreCompileInputs.cache
+C:\Users\fic\Downloads\operadores relacionais\lista\obj\Debug\netcoreapp2.2\lista.AssemblyInfoInputs.cache
+C:\Users\fic\Downloads\operadores relacionais\lista\obj\Debug\netcoreapp2.2\lista.AssemblyInfo.cs
+C:\Users\fic\Downloads\operadores relacionais\lista\bin\Debug\netcoreapp2.2\lista.deps.json
+C:\Users\fic\Downloads\operadores relacionais\lista\bin\Debug\netcoreapp2.2\lista.runtimeconfig.json
+C:\Users\fic\Downloads\operadores relacionais\lista\bin\Debug\netcoreapp2.2\lista.runtimeconfig.dev.json
+C:\Users\fic\Downloads\operadores relacionais\lista\bin\Debug\netcoreapp2.2\lista.dll
+C:\Users\fic\Downloads\operadores relacionais\lista\bin\Debug\netcoreapp2.2\lista.pdb
+C:\Users\fic\Downloads\operadores relacionais\lista\obj\Debug\netcoreapp2.2\lista.dll
+C:\Users\fic\Downloads\operadores relacionais\lista\obj\Debug\netcoreapp2.2\lista.pdb

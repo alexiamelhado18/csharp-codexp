@@ -1,0 +1,11 @@
+C:\Users\fic\Downloads\operadores relacionais\mediadefaltas\obj\Debug\netcoreapp2.2\mediadefaltas.csprojAssemblyReference.cache
+C:\Users\fic\Downloads\operadores relacionais\mediadefaltas\obj\Debug\netcoreapp2.2\mediadefaltas.csproj.CoreCompileInputs.cache
+C:\Users\fic\Downloads\operadores relacionais\mediadefaltas\obj\Debug\netcoreapp2.2\mediadefaltas.AssemblyInfoInputs.cache
+C:\Users\fic\Downloads\operadores relacionais\mediadefaltas\obj\Debug\netcoreapp2.2\mediadefaltas.AssemblyInfo.cs
+C:\Users\fic\Downloads\operadores relacionais\mediadefaltas\bin\Debug\netcoreapp2.2\mediadefaltas.deps.json
+C:\Users\fic\Downloads\operadores relacionais\mediadefaltas\bin\Debug\netcoreapp2.2\mediadefaltas.runtimeconfig.json
+C:\Users\fic\Downloads\operadores relacionais\mediadefaltas\bin\Debug\netcoreapp2.2\mediadefaltas.runtimeconfig.dev.json
+C:\Users\fic\Downloads\operadores relacionais\mediadefaltas\bin\Debug\netcoreapp2.2\mediadefaltas.dll
+C:\Users\fic\Downloads\operadores relacionais\mediadefaltas\bin\Debug\netcoreapp2.2\mediadefaltas.pdb
+C:\Users\fic\Downloads\operadores relacionais\mediadefaltas\obj\Debug\netcoreapp2.2\mediadefaltas.dll
+C:\Users\fic\Downloads\operadores relacionais\mediadefaltas\obj\Debug\netcoreapp2.2\mediadefaltas.pdb

@@ -1,0 +1,11 @@
+C:\Users\fic\Downloads\operadores relacionais\sequencianumeral\bin\Debug\netcoreapp2.2\sequencianumeral.deps.json
+C:\Users\fic\Downloads\operadores relacionais\sequencianumeral\bin\Debug\netcoreapp2.2\sequencianumeral.runtimeconfig.json
+C:\Users\fic\Downloads\operadores relacionais\sequencianumeral\bin\Debug\netcoreapp2.2\sequencianumeral.runtimeconfig.dev.json
+C:\Users\fic\Downloads\operadores relacionais\sequencianumeral\bin\Debug\netcoreapp2.2\sequencianumeral.dll
+C:\Users\fic\Downloads\operadores relacionais\sequencianumeral\bin\Debug\netcoreapp2.2\sequencianumeral.pdb
+C:\Users\fic\Downloads\operadores relacionais\sequencianumeral\obj\Debug\netcoreapp2.2\sequencianumeral.csprojAssemblyReference.cache
+C:\Users\fic\Downloads\operadores relacionais\sequencianumeral\obj\Debug\netcoreapp2.2\sequencianumeral.csproj.CoreCompileInputs.cache
+C:\Users\fic\Downloads\operadores relacionais\sequencianumeral\obj\Debug\netcoreapp2.2\sequencianumeral.AssemblyInfoInputs.cache
+C:\Users\fic\Downloads\operadores relacionais\sequencianumeral\obj\Debug\netcoreapp2.2\sequencianumeral.AssemblyInfo.cs
+C:\Users\fic\Downloads\operadores relacionais\sequencianumeral\obj\Debug\netcoreapp2.2\sequencianumeral.dll
+C:\Users\fic\Downloads\operadores relacionais\sequencianumeral\obj\Debug\netcoreapp2.2\sequencianumeral.pdb

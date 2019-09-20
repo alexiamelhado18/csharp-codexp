@@ -1,0 +1,11 @@
+C:\Users\fic\Downloads\operadores relacionais\dadoseaumento\obj\Debug\netcoreapp2.2\dadoseaumento.csprojAssemblyReference.cache
+C:\Users\fic\Downloads\operadores relacionais\dadoseaumento\obj\Debug\netcoreapp2.2\dadoseaumento.csproj.CoreCompileInputs.cache
+C:\Users\fic\Downloads\operadores relacionais\dadoseaumento\obj\Debug\netcoreapp2.2\dadoseaumento.AssemblyInfoInputs.cache
+C:\Users\fic\Downloads\operadores relacionais\dadoseaumento\obj\Debug\netcoreapp2.2\dadoseaumento.AssemblyInfo.cs
+C:\Users\fic\Downloads\operadores relacionais\dadoseaumento\bin\Debug\netcoreapp2.2\dadoseaumento.deps.json
+C:\Users\fic\Downloads\operadores relacionais\dadoseaumento\bin\Debug\netcoreapp2.2\dadoseaumento.runtimeconfig.json
+C:\Users\fic\Downloads\operadores relacionais\dadoseaumento\bin\Debug\netcoreapp2.2\dadoseaumento.runtimeconfig.dev.json
+C:\Users\fic\Downloads\operadores relacionais\dadoseaumento\bin\Debug\netcoreapp2.2\dadoseaumento.dll
+C:\Users\fic\Downloads\operadores relacionais\dadoseaumento\bin\Debug\netcoreapp2.2\dadoseaumento.pdb
+C:\Users\fic\Downloads\operadores relacionais\dadoseaumento\obj\Debug\netcoreapp2.2\dadoseaumento.dll
+C:\Users\fic\Downloads\operadores relacionais\dadoseaumento\obj\Debug\netcoreapp2.2\dadoseaumento.pdb

@@ -1,0 +1,11 @@
+C:\Users\fic\Downloads\operadores relacionais2\exerciciodeArrays2\obj\Debug\netcoreapp2.2\exerciciodeArrays2.csprojAssemblyReference.cache
+C:\Users\fic\Downloads\operadores relacionais2\exerciciodeArrays2\obj\Debug\netcoreapp2.2\exerciciodeArrays2.csproj.CoreCompileInputs.cache
+C:\Users\fic\Downloads\operadores relacionais2\exerciciodeArrays2\obj\Debug\netcoreapp2.2\exerciciodeArrays2.AssemblyInfoInputs.cache
+C:\Users\fic\Downloads\operadores relacionais2\exerciciodeArrays2\obj\Debug\netcoreapp2.2\exerciciodeArrays2.AssemblyInfo.cs
+C:\Users\fic\Downloads\operadores relacionais2\exerciciodeArrays2\bin\Debug\netcoreapp2.2\exerciciodeArrays2.deps.json
+C:\Users\fic\Downloads\operadores relacionais2\exerciciodeArrays2\bin\Debug\netcoreapp2.2\exerciciodeArrays2.runtimeconfig.json
+C:\Users\fic\Downloads\operadores relacionais2\exerciciodeArrays2\bin\Debug\netcoreapp2.2\exerciciodeArrays2.runtimeconfig.dev.json
+C:\Users\fic\Downloads\operadores relacionais2\exerciciodeArrays2\bin\Debug\netcoreapp2.2\exerciciodeArrays2.dll
+C:\Users\fic\Downloads\operadores relacionais2\exerciciodeArrays2\bin\Debug\netcoreapp2.2\exerciciodeArrays2.pdb
+C:\Users\fic\Downloads\operadores relacionais2\exerciciodeArrays2\obj\Debug\netcoreapp2.2\exerciciodeArrays2.dll
+C:\Users\fic\Downloads\operadores relacionais2\exerciciodeArrays2\obj\Debug\netcoreapp2.2\exerciciodeArrays2.pdb

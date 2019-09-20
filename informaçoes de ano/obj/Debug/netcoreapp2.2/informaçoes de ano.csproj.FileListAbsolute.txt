@@ -1,0 +1,11 @@
+C:\Users\fic\Downloads\Csharp\informaçoes de ano\bin\Debug\netcoreapp2.2\informaçoes de ano.deps.json
+C:\Users\fic\Downloads\Csharp\informaçoes de ano\bin\Debug\netcoreapp2.2\informaçoes de ano.runtimeconfig.json
+C:\Users\fic\Downloads\Csharp\informaçoes de ano\bin\Debug\netcoreapp2.2\informaçoes de ano.runtimeconfig.dev.json
+C:\Users\fic\Downloads\Csharp\informaçoes de ano\bin\Debug\netcoreapp2.2\informaçoes de ano.dll
+C:\Users\fic\Downloads\Csharp\informaçoes de ano\bin\Debug\netcoreapp2.2\informaçoes de ano.pdb
+C:\Users\fic\Downloads\Csharp\informaçoes de ano\obj\Debug\netcoreapp2.2\informaçoes de ano.csprojAssemblyReference.cache
+C:\Users\fic\Downloads\Csharp\informaçoes de ano\obj\Debug\netcoreapp2.2\informaçoes de ano.csproj.CoreCompileInputs.cache
+C:\Users\fic\Downloads\Csharp\informaçoes de ano\obj\Debug\netcoreapp2.2\informaçoes de ano.AssemblyInfoInputs.cache
+C:\Users\fic\Downloads\Csharp\informaçoes de ano\obj\Debug\netcoreapp2.2\informaçoes de ano.AssemblyInfo.cs
+C:\Users\fic\Downloads\Csharp\informaçoes de ano\obj\Debug\netcoreapp2.2\informaçoes de ano.dll
+C:\Users\fic\Downloads\Csharp\informaçoes de ano\obj\Debug\netcoreapp2.2\informaçoes de ano.pdb

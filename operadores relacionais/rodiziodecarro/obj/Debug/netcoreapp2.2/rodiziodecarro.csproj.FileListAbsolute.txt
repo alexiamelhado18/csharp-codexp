@@ -1,0 +1,11 @@
+C:\Users\fic\Downloads\operadores relacionais\rodiziodecarro\obj\Debug\netcoreapp2.2\rodiziodecarro.csprojAssemblyReference.cache
+C:\Users\fic\Downloads\operadores relacionais\rodiziodecarro\obj\Debug\netcoreapp2.2\rodiziodecarro.csproj.CoreCompileInputs.cache
+C:\Users\fic\Downloads\operadores relacionais\rodiziodecarro\obj\Debug\netcoreapp2.2\rodiziodecarro.AssemblyInfoInputs.cache
+C:\Users\fic\Downloads\operadores relacionais\rodiziodecarro\obj\Debug\netcoreapp2.2\rodiziodecarro.AssemblyInfo.cs
+C:\Users\fic\Downloads\operadores relacionais\rodiziodecarro\bin\Debug\netcoreapp2.2\rodiziodecarro.deps.json
+C:\Users\fic\Downloads\operadores relacionais\rodiziodecarro\bin\Debug\netcoreapp2.2\rodiziodecarro.runtimeconfig.json
+C:\Users\fic\Downloads\operadores relacionais\rodiziodecarro\bin\Debug\netcoreapp2.2\rodiziodecarro.runtimeconfig.dev.json
+C:\Users\fic\Downloads\operadores relacionais\rodiziodecarro\bin\Debug\netcoreapp2.2\rodiziodecarro.dll
+C:\Users\fic\Downloads\operadores relacionais\rodiziodecarro\bin\Debug\netcoreapp2.2\rodiziodecarro.pdb
+C:\Users\fic\Downloads\operadores relacionais\rodiziodecarro\obj\Debug\netcoreapp2.2\rodiziodecarro.dll
+C:\Users\fic\Downloads\operadores relacionais\rodiziodecarro\obj\Debug\netcoreapp2.2\rodiziodecarro.pdb

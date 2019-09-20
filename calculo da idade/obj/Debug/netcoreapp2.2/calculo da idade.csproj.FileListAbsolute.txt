@@ -1,0 +1,11 @@
+C:\Users\fic\Downloads\Csharp\calculo da idade\bin\Debug\netcoreapp2.2\calculo da idade.deps.json
+C:\Users\fic\Downloads\Csharp\calculo da idade\bin\Debug\netcoreapp2.2\calculo da idade.runtimeconfig.json
+C:\Users\fic\Downloads\Csharp\calculo da idade\bin\Debug\netcoreapp2.2\calculo da idade.runtimeconfig.dev.json
+C:\Users\fic\Downloads\Csharp\calculo da idade\bin\Debug\netcoreapp2.2\calculo da idade.dll
+C:\Users\fic\Downloads\Csharp\calculo da idade\bin\Debug\netcoreapp2.2\calculo da idade.pdb
+C:\Users\fic\Downloads\Csharp\calculo da idade\obj\Debug\netcoreapp2.2\calculo da idade.csprojAssemblyReference.cache
+C:\Users\fic\Downloads\Csharp\calculo da idade\obj\Debug\netcoreapp2.2\calculo da idade.csproj.CoreCompileInputs.cache
+C:\Users\fic\Downloads\Csharp\calculo da idade\obj\Debug\netcoreapp2.2\calculo da idade.AssemblyInfoInputs.cache
+C:\Users\fic\Downloads\Csharp\calculo da idade\obj\Debug\netcoreapp2.2\calculo da idade.AssemblyInfo.cs
+C:\Users\fic\Downloads\Csharp\calculo da idade\obj\Debug\netcoreapp2.2\calculo da idade.dll
+C:\Users\fic\Downloads\Csharp\calculo da idade\obj\Debug\netcoreapp2.2\calculo da idade.pdb

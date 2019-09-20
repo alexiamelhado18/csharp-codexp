@@ -1,0 +1,11 @@
+C:\Users\fic\Downloads\operadores relacionais2\exerciciodeArrays2\Entrada do Email\obj\Debug\netcoreapp2.2\Entrada do Email.csprojAssemblyReference.cache
+C:\Users\fic\Downloads\operadores relacionais2\exerciciodeArrays2\Entrada do Email\obj\Debug\netcoreapp2.2\Entrada do Email.csproj.CoreCompileInputs.cache
+C:\Users\fic\Downloads\operadores relacionais2\exerciciodeArrays2\Entrada do Email\obj\Debug\netcoreapp2.2\Entrada do Email.AssemblyInfoInputs.cache
+C:\Users\fic\Downloads\operadores relacionais2\exerciciodeArrays2\Entrada do Email\obj\Debug\netcoreapp2.2\Entrada do Email.AssemblyInfo.cs
+C:\Users\fic\Downloads\operadores relacionais2\exerciciodeArrays2\Entrada do Email\bin\Debug\netcoreapp2.2\Entrada do Email.deps.json
+C:\Users\fic\Downloads\operadores relacionais2\exerciciodeArrays2\Entrada do Email\bin\Debug\netcoreapp2.2\Entrada do Email.runtimeconfig.json
+C:\Users\fic\Downloads\operadores relacionais2\exerciciodeArrays2\Entrada do Email\bin\Debug\netcoreapp2.2\Entrada do Email.runtimeconfig.dev.json
+C:\Users\fic\Downloads\operadores relacionais2\exerciciodeArrays2\Entrada do Email\bin\Debug\netcoreapp2.2\Entrada do Email.dll
+C:\Users\fic\Downloads\operadores relacionais2\exerciciodeArrays2\Entrada do Email\bin\Debug\netcoreapp2.2\Entrada do Email.pdb
+C:\Users\fic\Downloads\operadores relacionais2\exerciciodeArrays2\Entrada do Email\obj\Debug\netcoreapp2.2\Entrada do Email.dll
+C:\Users\fic\Downloads\operadores relacionais2\exerciciodeArrays2\Entrada do Email\obj\Debug\netcoreapp2.2\Entrada do Email.pdb

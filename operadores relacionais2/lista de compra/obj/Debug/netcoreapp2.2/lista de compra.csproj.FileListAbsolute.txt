@@ -1,0 +1,11 @@
+C:\Users\fic\Downloads\operadores relacionais2\lista de compra\bin\Debug\netcoreapp2.2\lista de compra.deps.json
+C:\Users\fic\Downloads\operadores relacionais2\lista de compra\bin\Debug\netcoreapp2.2\lista de compra.runtimeconfig.json
+C:\Users\fic\Downloads\operadores relacionais2\lista de compra\bin\Debug\netcoreapp2.2\lista de compra.runtimeconfig.dev.json
+C:\Users\fic\Downloads\operadores relacionais2\lista de compra\bin\Debug\netcoreapp2.2\lista de compra.dll
+C:\Users\fic\Downloads\operadores relacionais2\lista de compra\bin\Debug\netcoreapp2.2\lista de compra.pdb
+C:\Users\fic\Downloads\operadores relacionais2\lista de compra\obj\Debug\netcoreapp2.2\lista de compra.csprojAssemblyReference.cache
+C:\Users\fic\Downloads\operadores relacionais2\lista de compra\obj\Debug\netcoreapp2.2\lista de compra.csproj.CoreCompileInputs.cache
+C:\Users\fic\Downloads\operadores relacionais2\lista de compra\obj\Debug\netcoreapp2.2\lista de compra.AssemblyInfoInputs.cache
+C:\Users\fic\Downloads\operadores relacionais2\lista de compra\obj\Debug\netcoreapp2.2\lista de compra.AssemblyInfo.cs
+C:\Users\fic\Downloads\operadores relacionais2\lista de compra\obj\Debug\netcoreapp2.2\lista de compra.dll
+C:\Users\fic\Downloads\operadores relacionais2\lista de compra\obj\Debug\netcoreapp2.2\lista de compra.pdb
