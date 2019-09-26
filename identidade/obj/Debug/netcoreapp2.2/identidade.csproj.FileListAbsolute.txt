@@ -1,0 +1,11 @@
+C:\Users\fic\Downloads\atividadelogica\identidade\bin\Debug\netcoreapp2.2\identidade.deps.json
+C:\Users\fic\Downloads\atividadelogica\identidade\bin\Debug\netcoreapp2.2\identidade.runtimeconfig.json
+C:\Users\fic\Downloads\atividadelogica\identidade\bin\Debug\netcoreapp2.2\identidade.runtimeconfig.dev.json
+C:\Users\fic\Downloads\atividadelogica\identidade\bin\Debug\netcoreapp2.2\identidade.dll
+C:\Users\fic\Downloads\atividadelogica\identidade\bin\Debug\netcoreapp2.2\identidade.pdb
+C:\Users\fic\Downloads\atividadelogica\identidade\obj\Debug\netcoreapp2.2\identidade.csprojAssemblyReference.cache
+C:\Users\fic\Downloads\atividadelogica\identidade\obj\Debug\netcoreapp2.2\identidade.csproj.CoreCompileInputs.cache
+C:\Users\fic\Downloads\atividadelogica\identidade\obj\Debug\netcoreapp2.2\identidade.AssemblyInfoInputs.cache
+C:\Users\fic\Downloads\atividadelogica\identidade\obj\Debug\netcoreapp2.2\identidade.AssemblyInfo.cs
+C:\Users\fic\Downloads\atividadelogica\identidade\obj\Debug\netcoreapp2.2\identidade.dll
+C:\Users\fic\Downloads\atividadelogica\identidade\obj\Debug\netcoreapp2.2\identidade.pdb

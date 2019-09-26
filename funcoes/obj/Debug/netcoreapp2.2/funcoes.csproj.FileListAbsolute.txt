@@ -1,0 +1,11 @@
+C:\Users\fic\Downloads\atividadelogica\funcoes\obj\Debug\netcoreapp2.2\funcoes.csprojAssemblyReference.cache
+C:\Users\fic\Downloads\atividadelogica\funcoes\obj\Debug\netcoreapp2.2\funcoes.csproj.CoreCompileInputs.cache
+C:\Users\fic\Downloads\atividadelogica\funcoes\obj\Debug\netcoreapp2.2\funcoes.AssemblyInfoInputs.cache
+C:\Users\fic\Downloads\atividadelogica\funcoes\obj\Debug\netcoreapp2.2\funcoes.AssemblyInfo.cs
+C:\Users\fic\Downloads\atividadelogica\funcoes\bin\Debug\netcoreapp2.2\funcoes.deps.json
+C:\Users\fic\Downloads\atividadelogica\funcoes\bin\Debug\netcoreapp2.2\funcoes.runtimeconfig.json
+C:\Users\fic\Downloads\atividadelogica\funcoes\bin\Debug\netcoreapp2.2\funcoes.runtimeconfig.dev.json
+C:\Users\fic\Downloads\atividadelogica\funcoes\bin\Debug\netcoreapp2.2\funcoes.dll
+C:\Users\fic\Downloads\atividadelogica\funcoes\bin\Debug\netcoreapp2.2\funcoes.pdb
+C:\Users\fic\Downloads\atividadelogica\funcoes\obj\Debug\netcoreapp2.2\funcoes.dll
+C:\Users\fic\Downloads\atividadelogica\funcoes\obj\Debug\netcoreapp2.2\funcoes.pdb
